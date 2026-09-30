@@ -1,2 +1,3 @@
 ERP Management System – MERN Stack Inventory & Invoicing App
 This ERP Management System is a full-featured business solution built with the MERN stack. It enables efficient inventory management, invoicing, and customer tracking. Features include adding and editing products, generating professional invoices with GST, managing customer details, and real-time data updates using MongoDB. The frontend is built with React and Ant Design, with state handled via Redux. The backend is powered by Node.js and Express, and the app is hosted via Vercel. Designed for scalability and ease of use, this system is ideal for businesses needing streamlined billing and inventory control.
+bydsvtyvubijni
